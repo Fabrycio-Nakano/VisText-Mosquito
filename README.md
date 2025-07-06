@@ -23,9 +23,6 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 <h2>Model Weights</h2>
 <p>The weight for object detection models are - <a href="Result/Yolov5s/Weight">YOLOv5s</a>, <a href="Result/Yolov5s/Weight">YOLOv8n</a>, and <a href="Result/Yolov5s/Weight">YOLOv9s</a>. The weight for segmentation model <a href="https://drive.google.com/drive/folders/1vjX6ZJbT87Xto4hQ7_dcueQjF9C5DjkI?usp=sharing">YOLOv8x-Seg</a>.
 
-<h2>License</h2>
-<p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
-
 <h2>Cite</h2>
 <p>If you use the dataset for your research, please cite it as follows:</p>
 <pre>
