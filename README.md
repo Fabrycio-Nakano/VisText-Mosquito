@@ -1,8 +1,15 @@
-# VisText-Mosquito: A Multimodal Dataset for Mosquito Breeding Site Detection, Surface Segmentation, and Reasoning
+# VisText-Mosquito: A Unified Multimodal Benchmark Dataset for Visual Detection, Segmentation, and Textual Reasoning on Mosquito Breeding Sites
 
 📄 <a href="https://arxiv.org/abs/2506.14629">**[paper]**</a> 📊 <a href="https://data.mendeley.com/datasets/rtsfh7jh7p/3" target="">**[dataset]**</a></p>
 
+<h2>_Abstract_</h2>
+
+_Mosquito-borne diseases pose a major global health risk, requiring early detection and proactive control of breeding sites to prevent outbreaks. In this paper, we present VisText-Mosquito, a multimodal dataset that integrates visual and textual data to support automated detection, segmentation, and reasoning for mosquito breeding site analysis. The dataset includes 1,828 annotated images for object detection, 142 images for water surface segmentation, and natural language reasoning texts linked to each image. The YOLOv9s model achieves the highest precision of 0.92926 and mAP@50 of 0.92891 for object detection, while YOLOv11n-Seg reaches a segmentation precision of 0.91587 and mAP@50 of 0.79795. For reasoning generation, we tested a range of large vision-language models (LVLMs) in both zero-shot and few-shot settings. Our fine-tuned Mosquito-LLaMA3-8B model achieved the best results, with a final loss of 0.0028, a BLEU score of 54.7, BERTScore of 0.91, and ROUGE-L of 0.85. This dataset and model framework emphasize the theme "Prevention is Better than Cure", showcasing how AI-based detection can proactively address mosquito-borne disease risks._
+
+![Dataset Overview](Assets/methodology.png)
+
 <h2>Dataset Overview</h2>
+
 <p>VisText-Mosquito is a comprehensive multimodal dataset designed to support detecting mosquito breeding sites, segmentation of water surfaces, and generating natural language reasoning for explainable AI applications. It consists of three core components:
 
 1. **Breeding Place Detection:** This part includes 1,828 images with 3,752 annotations across five classes: Coconut-Exocarp, Vase, Tire, Drain-Inlet, and Bottle. The images were collected from diverse urban, semi-urban, and rural environments in Bangladesh under daylight conditions to ensure visual consistency. Detection performance was validated using state-of-the-art object detection models, including YOLOv5s, YOLOv8n, and YOLOv9s, with YOLOv9s achieving the highest mAP@50.
@@ -12,8 +19,6 @@
 3. **Textual Reasoning Generation:** Each image is linked with a natural language reasoning statement that explains the presence or absence of breeding risk. A fine-tuned BLIP model was used to generate these explanations, achieving strong performance on BLEU, BERTScore, and ROUGE-L metrics.
 
 The VisText-Mosquito dataset offers a novel multimodal benchmark for training and evaluating AI models that combine detection, segmentation, and interpretability. It serves as a valuable resource for researchers and public health professionals aiming to develop explainable, scalable mosquito control solutions.</p>
-
-![Dataset Overview](Assets/methodology.png)
 
 ![Dataset Overview](Assets/annotation.png)
 
