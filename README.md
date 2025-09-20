@@ -22,11 +22,15 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 
 ![Dataset Overview](Assets/annotation.png)
 
-<h2>Code</h2>
+<h2>Code & Weights</h2>
+
+**(All code and model weights will be released soon.)**
+
+<!-- <h2>Code</h2>
 <p>The notebook called <a href="Code/yolov5s_yolov8n_yolov9s_1.ipynb">yolov5s_yolov8n_yolov9s_1.ipynb</a> is used to train the models YOLOv5s, YOLOv8n, and YOLOv9s for mosquito breeding place detection. And the notebook called <a href="Code/Yolov8x-seg.ipynb">Yolov8x-seg.ipynb</a> is used to train the models YOLOv8x-seg for surface water segmentation.</p>
 
 <h2>Model Weights</h2>
-<p>The weight for object detection models are - <a href="Result/Yolov5s/Weight">YOLOv5s</a>, <a href="Result/Yolov5s/Weight">YOLOv8n</a>, and <a href="Result/Yolov5s/Weight">YOLOv9s</a>. The weight for segmentation model <a href="https://drive.google.com/drive/folders/1vjX6ZJbT87Xto4hQ7_dcueQjF9C5DjkI?usp=sharing">YOLOv8x-Seg</a>.
+<p>The weight for object detection models are - <a href="Result/Yolov5s/Weight">YOLOv5s</a>, <a href="Result/Yolov5s/Weight">YOLOv8n</a>, and <a href="Result/Yolov5s/Weight">YOLOv9s</a>. The weight for segmentation model <a href="https://drive.google.com/drive/folders/1vjX6ZJbT87Xto4hQ7_dcueQjF9C5DjkI?usp=sharing">YOLOv8x-Seg</a>. -->
 
 <h2>Cite</h2>
 <p>If you use the dataset for your research, please cite it as follows:</p>
@@ -39,8 +43,8 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 }
 </pre>
 
-<h2>Contact</h2>
-<p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd, mislam221096@bscse.uiu.ac.bd</p>
+<!-- <h2>Contact</h2>
+<p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd, mislam221096@bscse.uiu.ac.bd</p> -->
 
 </body>
 </html>
