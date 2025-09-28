@@ -1,6 +1,6 @@
 # VisText-Mosquito: A Unified Multimodal Benchmark Dataset for Visual Detection, Segmentation, and Textual Reasoning on Mosquito Breeding Sites
 
-📄 <a href="https://arxiv.org/abs/2506.14629">**[paper]**</a> 📊 <a href="https://data.mendeley.com/datasets/rtsfh7jh7p/3" target="">**[dataset]**</a></p>
+<!-- 📄 <a href="https://arxiv.org/abs/2506.14629">**[paper]**</a> 📊 <a href="https://data.mendeley.com/datasets/rtsfh7jh7p/3" target="">**[dataset]**</a></p> -->
 
 <h2>Abstract</h2>
 
@@ -32,7 +32,7 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
 <h2>Model Weights</h2>
 <p>The weight for object detection models are - <a href="Result/Yolov5s/Weight">YOLOv5s</a>, <a href="Result/Yolov5s/Weight">YOLOv8n</a>, and <a href="Result/Yolov5s/Weight">YOLOv9s</a>. The weight for segmentation model <a href="https://drive.google.com/drive/folders/1vjX6ZJbT87Xto4hQ7_dcueQjF9C5DjkI?usp=sharing">YOLOv8x-Seg</a>. -->
 
-<h2>Cite</h2>
+<!-- <h2>Cite</h2>
 <p>If you use the dataset for your research, please cite it as follows:</p>
 <pre>
 @article{islam2025vistext,
@@ -41,7 +41,7 @@ The VisText-Mosquito dataset offers a novel multimodal benchmark for training an
   journal={arXiv preprint arXiv:2506.14629},
   year={2025}
 }
-</pre>
+</pre> -->
 
 <!-- <h2>Contact</h2>
 <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd, mislam221096@bscse.uiu.ac.bd</p> -->
