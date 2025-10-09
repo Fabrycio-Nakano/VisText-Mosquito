@@ -1,6 +1,6 @@
 # VisText-Mosquito: A Unified Multimodal Benchmark Dataset for Visual Detection, Segmentation, and Textual Reasoning on Mosquito Breeding Sites
 
-<!-- 📄 <a href="https://arxiv.org/abs/2506.14629">**[paper]**</a> 📊 <a href="https://data.mendeley.com/datasets/rtsfh7jh7p/3" target="">**[dataset]**</a></p> -->
+📄 <a href="https://arxiv.org/abs/2506.14629">**[paper]**</a> 📊 <a href="https://data.mendeley.com/datasets/rtsfh7jh7p/3" target="">**[dataset]**</a></p>
 
 <h2>Abstract</h2>
 
