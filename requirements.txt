@@ -1,0 +1,17 @@
+ultralytics==8.2.101
+torch==2.4.0
+torchvision==0.19.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.7.5
+seaborn==0.12.2
+opencv-python==4.10.0.84
+tqdm==4.66.4
+pillow==10.3.0
+pyyaml==6.0.2
+scipy==1.14.1
+albumentations==1.4.15
+wandb==0.18.1
+ipywidgets==7.7.1
+google-generativeai
+ipykernel
